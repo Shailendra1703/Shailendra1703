@@ -1,4 +1,5 @@
-![MasterHead](https://i.postimg.cc/PxKxSxD5/Black-and-Gold-Tech-Website-Developer-Linked-In-Banner.png)
+![MasterHead](https://i.postimg.cc/zXJ9Pg3N/2109-w023-n001-1114-B-p1-1114.jpg)
+<!-- https://i.postimg.cc/PxKxSxD5/Black-and-Gold-Tech-Website-Developer-Linked-In-Banner.png -->
 <h1 align="center">Hi 👋, I'm Shailendra Singh</h1>
 <h3 align="center">A passionate Web Developer and Programmer.</h3>
 <img style="border-radius: 10px;" width="400" align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
