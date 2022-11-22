@@ -5,7 +5,7 @@
 <img style="border-radius: 10px;" width="400" align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra1703&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra1703" /> </p>
 
-- 🔭 I’m currently working on [ChatApp](https://chat-app-2051b.web.app)
+- 🔭 I’m currently working on a Freelancing Project
 
 - 🌱 I’m currently learning **Reactjs**
 
