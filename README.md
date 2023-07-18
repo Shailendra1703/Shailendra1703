@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 🤝 I’m looking for help with [Array Sorting Visualizer](https://shailendra1703.github.io/Array-Sorting-Visualizer/)
-
 - 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **https://github.com/Shailendra1703**
-
-- 📄 Know about my experiences [https://bit.ly/3eSdNJ5](https://bit.ly/3eSdNJ5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
