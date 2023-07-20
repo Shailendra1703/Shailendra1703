@@ -10,7 +10,8 @@ const shailendra = {
       css: ["tailwindcss", "materialUI", "bulma", "css3", "bootstrap"],
     },
     backEnd: {
-      js: ["Node", "express", "ruby on rails"],
+      js: ["Node", "express"],
+      ruby: ["ruby on rails"]
     },
 
     databases: ["mongo", "prisma", "MySql", "sqlite"],
