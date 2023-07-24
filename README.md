@@ -17,7 +17,7 @@ const shailendra = {
     databases: ["mongo", "prisma", "MySql", "sqlite"],
     misc: ["Firebase", "Socket.IO", "selenium"],
   },
-  currentFocus: "building online environments",
+  currentFocus: ["rmx","react native"],
   funFact:
     "There are two ways to write error-free programs; only the third one works",
 };
