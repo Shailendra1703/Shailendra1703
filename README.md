@@ -22,4 +22,3 @@ const shailendra = {
     "There are two ways to write error-free programs; only the third one works",
 };
 ```
-![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailendra1703&show_icons=true&theme=tokyonight&count_private=true&border_color)
